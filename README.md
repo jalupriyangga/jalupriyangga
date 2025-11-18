@@ -4,7 +4,7 @@
 
 <h3 align="center">I love to build solution through software, <br> I have experience in system analysis, UI/UX Design, Web/Mobile App Development and quality assurance</h3>
 <p align="center">🔭 I’m currently Studying at Information Technology Major, Brawijaya University</p>
-<p align="center">📫 How to reach me **dionisiusaritojp@gmail.com**</p>
+<p align="center">📫 How to reach me dionisiusaritojp@gmail.com</p>
 
 ###
 
